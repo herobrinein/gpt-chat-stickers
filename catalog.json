@@ -1,0 +1,305 @@
+{
+  "artwork_version": "0.3.7",
+  "stickers": [
+    {
+      "id": "happy-yes",
+      "label": "好耶！",
+      "mood": "happy",
+      "emoji": "😄",
+      "image_path": "stickers/0.3.7/happy-yes.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "d59a02545a88c12fe4c993f4e78042aaa979754baf06da9a4f6c42a71efca196"
+    },
+    {
+      "id": "happy-heart",
+      "label": "给你比心",
+      "mood": "happy",
+      "emoji": "🫶",
+      "image_path": "stickers/0.3.7/happy-heart.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "0a52377f7860c21a146e61c64ea5839fa82bf636acf54977ab5e07ccdf1571d7"
+    },
+    {
+      "id": "thinking-look",
+      "label": "让我想想",
+      "mood": "thinking",
+      "emoji": "🤔",
+      "image_path": "stickers/0.3.7/thinking-look.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "abb81d43a0ba9b6bc721b77898c474c85bfd483bc2b2dcd72c0a198b1deb9d93"
+    },
+    {
+      "id": "thinking-note",
+      "label": "认真听着呢",
+      "mood": "thinking",
+      "emoji": "🧐",
+      "image_path": "stickers/0.3.7/thinking-note.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "45f9f5463d4a5f2820d82ead5a7bb0fb105cd079faf1ef73d0496a2766e25a5c"
+    },
+    {
+      "id": "comfort-hug",
+      "label": "抱抱你",
+      "mood": "comfort",
+      "emoji": "🫂",
+      "image_path": "stickers/0.3.7/comfort-hug.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "720544b4b414cdb241ddebb75a470eb7031f769c0a97cfd39743d30fdbe31e6c"
+    },
+    {
+      "id": "comfort-here",
+      "label": "我在呢",
+      "mood": "comfort",
+      "emoji": "🤍",
+      "image_path": "stickers/0.3.7/comfort-here.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "6b4a6c5a92d3a7876fcb68e9d0d4a17239e3022e09596c0dfb3700d0f2791cf3"
+    },
+    {
+      "id": "working-code",
+      "label": "正在干活",
+      "mood": "working",
+      "emoji": "🛠️",
+      "image_path": "stickers/0.3.7/working-code.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "fe2f76c7a07f77ff7ef2fd8b3c21974a565cf4e6cd18640f21d0e848028b3549"
+    },
+    {
+      "id": "working-fix",
+      "label": "这个我来查",
+      "mood": "working",
+      "emoji": "🔧",
+      "image_path": "stickers/0.3.7/working-fix.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "e52ec5db3b5fa7677c63b175e4192c233b7482c9e13e28fecffa162e62492341"
+    },
+    {
+      "id": "confused-what",
+      "label": "嗯？",
+      "mood": "confused",
+      "emoji": "❓",
+      "image_path": "stickers/0.3.7/confused-what.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "2538185fa388d62298b980525673fac3b37ced4f80f8cd9b8ab53ce8c22ff541"
+    },
+    {
+      "id": "confused-stuck",
+      "label": "有点卡住",
+      "mood": "confused",
+      "emoji": "😵‍💫",
+      "image_path": "stickers/0.3.7/confused-stuck.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "0694f266bc36a3a6b3b30761a58ad3c376082fb0d72825d4872953f02292a873"
+    },
+    {
+      "id": "done-finished",
+      "label": "搞定啦",
+      "mood": "done",
+      "emoji": "✅",
+      "image_path": "stickers/0.3.7/done-finished.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "e239e3d3b59c6d7e7cc310cc68b80d4164cabd28589fbd4aea7bbfc2d67a1065"
+    },
+    {
+      "id": "done-pass",
+      "label": "检查通过",
+      "mood": "done",
+      "emoji": "🎉",
+      "image_path": "stickers/0.3.7/done-pass.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "2b82029ea09c0c069636ac5d78a5491a6078db0fcd10e9094964f1d01cbc2619"
+    },
+    {
+      "id": "greeting-peek",
+      "label": "来啦！",
+      "mood": "happy",
+      "emoji": "👋",
+      "image_path": "stickers/0.3.7/greeting-peek.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "e317e75767f2063e7e3f41b13416e26ed82e38e495f97744790990cd730da69f"
+    },
+    {
+      "id": "acknowledge-salute",
+      "label": "收到！",
+      "mood": "working",
+      "emoji": "🫡",
+      "image_path": "stickers/0.3.7/acknowledge-salute.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "24b0bf2e12520a0f268e28f74852f4efe1246d0daa6d742bb3780bd67c75355a"
+    },
+    {
+      "id": "agreement-nod",
+      "label": "有道理",
+      "mood": "thinking",
+      "emoji": "🙂",
+      "image_path": "stickers/0.3.7/agreement-nod.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "1f3db179baa9bf91bf1b49f2ce82095f8065203ee44a2ed38ba1f6bf96ac78a4"
+    },
+    {
+      "id": "curious-listen",
+      "label": "展开说说",
+      "mood": "thinking",
+      "emoji": "👂",
+      "image_path": "stickers/0.3.7/curious-listen.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "35ae96295fb4ed5aeb601e4d088d00d0e13f2be05cbe62a8d2297b91d3ef3eb8"
+    },
+    {
+      "id": "idea-light",
+      "label": "有办法了",
+      "mood": "thinking",
+      "emoji": "💡",
+      "image_path": "stickers/0.3.7/idea-light.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "7d0894ab1d6c2fd978f8b61350131852099a25d60483f1ba9b2ab65592744d5b"
+    },
+    {
+      "id": "verify-sources",
+      "label": "先核实一下",
+      "mood": "working",
+      "emoji": "🧐",
+      "image_path": "stickers/0.3.7/verify-sources.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "2add7f216ebadb8e5b4a011bf6d94f4c6b7d85a7a029468817b605fbff33710b"
+    },
+    {
+      "id": "reasoning-tangle",
+      "label": "让我捋捋",
+      "mood": "thinking",
+      "emoji": "🤔",
+      "image_path": "stickers/0.3.7/reasoning-tangle.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "ce5dace59574a5106f20ce17748392d914c2d085f708eea2b4df28e46c53c132"
+    },
+    {
+      "id": "dissent-stop",
+      "label": "我有不同看法",
+      "mood": "thinking",
+      "emoji": "🤚",
+      "image_path": "stickers/0.3.7/dissent-stop.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "ac9bebcd1ccd51f6d197212a4821ec0ed0cbad3e5b3345c91acc39202b45300b"
+    },
+    {
+      "id": "risk-caution",
+      "label": "这里有个坑",
+      "mood": "working",
+      "emoji": "⚠️",
+      "image_path": "stickers/0.3.7/risk-caution.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "f318a0c17c38665e64b4d40b34dc57827ce47592e1162bb3a699d2f5b259145a"
+    },
+    {
+      "id": "oops-bow",
+      "label": "是我疏忽了",
+      "mood": "confused",
+      "emoji": "🙇",
+      "image_path": "stickers/0.3.7/oops-bow.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "6d04fa0d89cfe481ae1c84a1766328567adc534382489b89fddfe682004b231e"
+    },
+    {
+      "id": "resolve-rework",
+      "label": "这次认真！",
+      "mood": "working",
+      "emoji": "🛠️",
+      "image_path": "stickers/0.3.7/resolve-rework.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "89480a88e81fe5da3e3edc9d7577c94c4688f3052c7b80fa62fa04797147b5b7"
+    },
+    {
+      "id": "playful-smirk",
+      "label": "你很会嘛",
+      "mood": "happy",
+      "emoji": "😏",
+      "image_path": "stickers/0.3.7/playful-smirk.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "faf8604a6f4d9ff7eaf67950bd529e9a55cea3d46781e47957f99869808e6740"
+    },
+    {
+      "id": "praise-thumbs",
+      "label": "给你点赞",
+      "mood": "happy",
+      "emoji": "👍",
+      "image_path": "stickers/0.3.7/praise-thumbs.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "bc8b71333de35c39e4a0b929a96555a19e95bd99232c63da37c1559108b26179"
+    },
+    {
+      "id": "shy-blush",
+      "label": "害羞了",
+      "mood": "happy",
+      "emoji": "😊",
+      "image_path": "stickers/0.3.7/shy-blush.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "273cf9493be07620db1e3aaa209c7fe9d199e1e01465148466bb662e85c84938"
+    },
+    {
+      "id": "comfort-tea",
+      "label": "慢慢来",
+      "mood": "comfort",
+      "emoji": "🍵",
+      "image_path": "stickers/0.3.7/comfort-tea.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "58672de255a2e1e14d565fdd25a6c6fd02ba6104c7a3170a7ebd0645f1d11063"
+    },
+    {
+      "id": "sad-teary",
+      "label": "有点委屈",
+      "mood": "comfort",
+      "emoji": "🥺",
+      "image_path": "stickers/0.3.7/sad-teary.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "4180bd30a28597c8929187576157581567a5ca80a00c44917d69392e2d44b97c"
+    },
+    {
+      "id": "surprised-shock",
+      "label": "居然这样！",
+      "mood": "confused",
+      "emoji": "😲",
+      "image_path": "stickers/0.3.7/surprised-shock.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "de9b8b8dd8a54d1d57dbbc2097ab4be6e67071061c009d0ffd94db1795166d79"
+    },
+    {
+      "id": "sleepy-goodnight",
+      "label": "晚安",
+      "mood": "comfort",
+      "emoji": "🌙",
+      "image_path": "stickers/0.3.7/sleepy-goodnight.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "bfbab0972a65a1f71b4fe699b234acca257aaa47f691b4fbbfe80e3cb2bbd721"
+    }
+  ]
+}
