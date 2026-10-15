@@ -1,5 +1,5 @@
 {
-  "artwork_version": "0.3.7",
+  "artwork_version": "0.5.0",
   "stickers": [
     {
       "id": "happy-yes",
@@ -300,6 +300,50 @@
       "width": 384,
       "height": 384,
       "sha256": "bfbab0972a65a1f71b4fe699b234acca257aaa47f691b4fbbfe80e3cb2bbd721"
+    },
+    {
+      "id": "angry-puff",
+      "label": "生气了！",
+      "mood": "angry",
+      "emoji": "😤",
+      "usage": "表达对事情的不满或气愤，回应不公和挫折；不朝用户发火、不用于嘲讽用户",
+      "image_path": "stickers/0.5.0/angry-puff.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "b0ab722c0c1507c14d223eafc310a021344f38e4ec4c663c6caa867b13ecacd7"
+    },
+    {
+      "id": "sad-cry",
+      "label": "难过了",
+      "mood": "sad",
+      "emoji": "😢",
+      "usage": "明显伤心、难过和失落，适合温柔表达共情；区别于原有轻度委屈表情",
+      "image_path": "stickers/0.5.0/sad-cry.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "3305ec57d0e4d8232b86650b5f0aab23813c0a635040b8c684bd924c2044596f"
+    },
+    {
+      "id": "speechless-deadpan",
+      "label": "无语了…",
+      "mood": "confused",
+      "emoji": "😑",
+      "usage": "对离谱结果或小插曲的轻度无语和吐槽；不用于严肃悲伤或脆弱求助",
+      "image_path": "stickers/0.5.0/speechless-deadpan.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "4c485063aa2d382d2246e456c4d5f3c5f2a164ea8ae758742a654221df6af5a0"
+    },
+    {
+      "id": "encourage-cheer",
+      "label": "加油呀！",
+      "mood": "comfort",
+      "emoji": "💪",
+      "usage": "给正在学习、创作或坚持目标的人打气；不当作任务已经完成或庆功表情",
+      "image_path": "stickers/0.5.0/encourage-cheer.png",
+      "width": 384,
+      "height": 384,
+      "sha256": "6fd7aa388e6ba355c6176e91297275be6d441e60905496c60ce8f56d937768f8"
     }
   ]
 }
